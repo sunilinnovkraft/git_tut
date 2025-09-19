@@ -1,4 +1,13 @@
 @import "tailwindcss";
 
+ul{
+
+list-style: none !important;
+  
+}
+
+
+
+
 
 
