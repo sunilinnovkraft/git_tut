@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+ul{
+list-style: none !important; 
+}
+
 
 a{
   text-decoration: none !important;
